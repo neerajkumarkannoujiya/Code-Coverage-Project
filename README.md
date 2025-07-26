@@ -69,6 +69,7 @@ coverage run -m unittest discover tests
 coverage report -m
 coverage html  # Generates htmlcov/index.html
 ```
+![Dashboard Screenshot](UseCase%20Diagrams/IMG-20250415-WA0009.jpg)  
 
 ### Or via the Script:
 ```bash
@@ -81,6 +82,8 @@ chmod +x run_coverage.sh
 xdg-open htmlcov/index.html  # Linux
 start htmlcov/index.html     # Windows
 ```
+
+![Dashboard Screenshot](UseCase%20Diagrams/IMG-20250415-WA0009.jpg)  
 
 ---
 
