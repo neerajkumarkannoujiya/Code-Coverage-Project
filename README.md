@@ -69,7 +69,7 @@ coverage run -m unittest discover tests
 coverage report -m
 coverage html  # Generates htmlcov/index.html
 ```
-![Dashboard Screenshot](UseCase%20Diagrams/IMG-20250415-WA0009.jpg)  
+![Dashboard Screenshot](P1.jpg)  
 
 ### Or via the Script:
 ```bash
@@ -83,7 +83,7 @@ xdg-open htmlcov/index.html  # Linux
 start htmlcov/index.html     # Windows
 ```
 
-![Dashboard Screenshot](UseCase%20Diagrams/IMG-20250415-WA0009.jpg)  
+![Dashboard Screenshot](P2.jpg)  
 
 ---
 
@@ -128,9 +128,9 @@ Found a bug or have suggestions? Feel free to open an [issue](https://github.com
 ## 📬 Contact
 
 **Neeraj Kumar Kannoujiya**  
-📧 neeraj7388011@gmail.com  
+📧 neerajkumar7388011@gmail.com  
 📍 India  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://www.linkedin.com/in/neerajkumarkannoujiya) | [GitHub](https://github.com/neerajkumarkannoujiya)
 
 ---
 
